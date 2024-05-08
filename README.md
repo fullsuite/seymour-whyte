@@ -1,4 +1,4 @@
-# Seymour Whyte Email Notifications
+# Seymour Whyte
 
 ## ICT Incident Notifications
 - Work Notes Added
