@@ -19,6 +19,8 @@
 - Reopened (ICT Member)
 - Reopened (User)
 - Cannot be reopened
+- Work Notes Added
+- Comments Added
 
 ## Notifaction Email Scripts
 - getIncidentLink: ${mail_script:getIncidentLink}
